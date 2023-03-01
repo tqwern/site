@@ -119,3 +119,35 @@ span {
     color: #828282;
     font-size: 14px;
 }
+
+.button_contacts {
+    text-align: center;
+    padding-top: 29px;
+}
+
+.button {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: 700;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    padding: 16px 60px;
+    display: inline-block;
+    margin: 0 15px;
+    border-color: black;
+    background: black;
+}
+
+.button:hover {
+    color: #828282;
+}
+
+.social_network {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    width: 342px;
+    padding-top: 30px;
+    padding-left: 300px;
+}
